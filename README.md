@@ -1,12 +1,76 @@
 <h1 align="center">Hi 👋, I'm Carlos Manuel Galindo Celis</h1>
-<h3 align="center">A passionate Game Developer and 3D Artists from Mexico</h3>
+<h3 align="center">A passionate Game Developer and 3D Artist from Mexico</h3>
 
+```c++
+
+#include <cstdio>
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class Arckram_Kreator {
+    
+    private:
+
+    string name;
+    string personal_website;
+    string _3D_portfolio;
+    string about_me;
+
+    public:
+    Arckram_Kreator(){
+        name = "Carlos Manuel Galindo Celis";
+        personal_website = "www.cgalindocelis.com";
+        _3D_portfolio = "www.artstation.com/arckram_kreator";
+        about_me = "I'm Autistic :P";
+    }
+
+    int print_datos(){
+
+        cout<<"Name:\n\t"<<name<<endl;
+        cout<<"Personal website:\n\t"<< personal_website <<endl;
+        cout<<"3D Portfolio:\n\t"<< _3D_portfolio <<endl;
+        cout<<"Something about me:\n\t"<< about_me <<endl;
+        
+        int trash;
+        cout<<"Enter a Number"<<endl;
+        cin>>trash;
+        SQRT_2(trash);
+        
+        return 0;
+    }
+
+    protected:
+
+    int SQRT_2(int num){
+        if (num == 2){
+            cout<<"The square root of 2 is 1.414213562\n";
+            return 0;
+        }else{
+            cout<<"I dont care you asked for "<<num<<"'s square root...\n";
+            cout<<"The square root of 2 is 1.414213562\n";
+            return 0;
+        }
+        return 0;
+    }
+};
+
+int main() {
+    Arckram_Kreator ME;
+    ME.print_datos();
+  return 0;
+}
+
+```
+
+<!--
 - 👨‍💻 All of my projects are available at [www.cgalindocelis.com](www.cgalindocelis.com)
 
 - 📫 How to reach me **cgalindocelis@gmail.com**
 
 - ⚡ Fun fact **The square root of 2 is 1.414213562 and... I'm Autistic :P**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
