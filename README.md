@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://omegaup.com/profile/Arckram_Kreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/omegaup/media/501ca07bf4f5b5d78b53d826216aae0016764734/logo-square/logo-square.svg" alt="cgalindocelis" height="30" width="40" /></a>
+<a href="https://omegaup.com/profile/Arckram_Kreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/omegaup/media/501ca07bf4f5b5d78b53d826216aae0016764734/favicon/favicon.svg" alt="cgalindocelis" height="30" width="40" /></a>
 <a href="https://www.artstation.com/arckram_kreator" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg" alt="cgalindocelis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cgalindocelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cgalindocelis" height="30" width="40" /></a>
 <a href="https://instagram.com/arckram_kreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arckram_kreator" height="30" width="40" /></a>
